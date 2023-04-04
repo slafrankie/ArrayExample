@@ -67,18 +67,5 @@ public class arrayList
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 }
