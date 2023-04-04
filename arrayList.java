@@ -20,7 +20,7 @@ public class arrayList
 		phoneList.add("Name: Michael Summers			Phone Number: 757-999-9999");
 		phoneList.add("Whiteny Wright				Phone Number: 757-111-1111");
 		phoneList.add("Alexander Jones				Phone Number: 757-222-2222");
-		phoneList.add("Robert Newmaster			Phone Number: 757-333-3333");
+		phoneList.add("Robert Newmaster				Phone Number: 757-333-3333");
 		phoneList.add("Chris Jester				Phone Number: 757-444-4444");
 		phoneList.add("Heather Garn				Phone Number: 757-555-5555");
 		phoneList.add("Jared Cook				Phone Number: 757-666-6666");
